@@ -1,0 +1,71 @@
+[
+    {
+        "name" : "Orion",
+        "description": "Named for Orion, the mythological Greek hunter",
+        "bestSeen": "January to March",
+        "bgImages" : "https://content.artofmanliness.com/uploads/2014/07/OrionCC.jpg"
+    },
+
+    {
+        "name" : "Aquarius",
+        "description": "Latin for “water carrier” or “cup carrier”",
+        "bestSeen": "October",
+        "bgImages": "https://content.artofmanliness.com/uploads/2014/07/AquariusCC.jpg"
+    },
+    
+    {
+        "name" : "Aquila",
+        "description": "Latin for “eagle”",
+        "bestSeen": "late summer, September",
+        "bgImages": "https://content.artofmanliness.com/uploads/2014/07/AquilaCC.jpg"
+    },
+
+    {
+        "name" : "Aries",
+        "description": "Latin for “ram”",
+        "bestSeen": "December",
+        "bgImages": "https://content.artofmanliness.com/uploads/2014/07/AriesCC.jpg"
+    },
+
+    {
+        "name" : "Canis Major",
+        "description": "Latin for “greater dog”",
+        "bestSeen": "February",
+        "bgImages": "https://content.artofmanliness.com/uploads/2014/07/CanisMajorCC.jpg"
+    },
+
+    {
+        "name" : "Cassiopeia",
+        "description": "No Latin meaning, it’s the name of a queen in Greek mythology",
+        "bestSeen": "November",
+        "bgImages": "https://content.artofmanliness.com/uploads/2014/07/CassiopeiaCC.jpg"
+    },
+
+    {
+        "name" : "Cygnus",
+        "description": "Latinized Greek for “swan”",
+        "bestSeen": "September",
+        "bgImages": "https://content.artofmanliness.com/uploads/2014/07/CygnusCC.jpg"
+    },
+
+    {
+        "name" : "Gemini",
+        "description": "Latin for “twins”",
+        "bestSeen": "February",
+        "bgImages": "https://th.bing.com/th/id/OIP.DgUKGNxvhd8W75pvGm_95wHaHa?w=204&h=204&c=7&r=0&o=5&pid=1.7"
+    },
+
+    {
+        "name" : "Leo",
+        "description": "Latin for “lion”",
+        "bestSeen": "April",
+        "bgImages": "https://content.artofmanliness.com/uploads/2014/07/LeoCC.jpg"
+    },
+
+    {
+        "name" : "Lyra",
+        "description": "Latin for “lyre”",
+        "bestSeen": "August",
+        "bgImages": "https://content.artofmanliness.com/uploads/2014/07/LyraCC.jpg"
+    }
+]
